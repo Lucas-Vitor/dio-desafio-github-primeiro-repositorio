@@ -1,0 +1,10 @@
+Tipos de dados primitivos:
+Existem apenas 4 tipos de dados primitivos, que são:
+
+INTEIRO: Representa valores numéricos negativo ou positivo sem casa decimal, ou seja, valores inteiros.
+REAL: Representa valores numéricos negativo ou positivo com casa decimal, ou seja, valores reais. Também são chamados de ponto flutuante.
+LÓGICO: Representa valores booleanos, assumindo apenas dois estados, VERDADEIRO ou FALSO. Pode ser representado apenas um bit (que aceita apenas 1 ou 0).
+CARACTER: Representa uma sequencia de um ou mais de caracteres, colocamos os valores do tipo TEXTO entre " " (aspas duplas).
+
+
+
