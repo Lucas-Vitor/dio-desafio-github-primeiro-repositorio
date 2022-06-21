@@ -1,0 +1,26 @@
+Link para o download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos Git bash:
+CD – Listar os repositórios
+Dir – mudar de diretório
+Mkdir – criar diretório
+Del / rmdir – deletar diretório 
+Git Status
+
+git init: inicializa um repositório local git
+git clone: Clona um repositório
+git status: verifica o estado dos seus arquivos
+git add <nomeDoArquivo>: envia seu arquivo especificado para o Stage
+git add - -all: envia todos os arquivos para o Stage
+git commit -m “tituloDoCommit: envia o que está no Stage para o HEAD
+git remote add origin urlDoRepositorio: adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
+git push origin master: envia os arquivos para o repositório remoto que você especificou através da URL do comando acima
+git checkout -b <nomeDaBranch>: cria uma nova branch
+git checkout <nomeDaBranch>: alterna para a branch especificada
+
+O que é Markdown?
+Markdown é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz.
+Markdown converte seu texto em HTML válido.
+Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns
+de discussão online e para criar rich text usando um editor de texto simples
